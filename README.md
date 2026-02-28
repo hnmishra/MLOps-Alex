@@ -35,4 +35,3 @@ _If you're looking at this in Cursor, please right click on the filename in the 
 
 - Please submit your community_contributions, including links to your repos, in the production repo community_contributions folder
 - Regularly do a git pull to get the latest code
-- Reach out in Udemy or email (ed@edwarddonner.com) if I can help! This is a gigantic project and I am here to help you deliver it!
